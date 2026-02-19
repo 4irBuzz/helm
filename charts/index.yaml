@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  openresty-art:
+  - apiVersion: v2
+    appVersion: 1.19.9.1-centos-rpm
+    created: "2026-02-19T14:14:03.418354978+03:00"
+    description: My Training Chart for Kubernetes
+    digest: 5c0519c8fe24b1ff77f0306a95ac6abdc8f423c5ab382adc3853f83a81bd62fe
+    home: https://github.com/4irBuzz/helm
+    kubeVersion: '>= 1.19.0'
+    maintainers:
+    - email: romanolshanskiy04@gmail.com
+      name: Romana Olshanski
+    name: openresty-art
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/4irBuzz/helm/main/charts/openresty-art-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-19T14:14:03.417469873+03:00"
